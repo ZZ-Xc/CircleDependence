@@ -8,7 +8,7 @@ public class GitTest {
         System.out.println("hello github 4!");
         System.out.println("hello github master!");
         System.out.println("hello github hotfix!");
-        System.out.println("hello github push test!");
+        System.out.println("hello github push test online!");
     }
 
 
